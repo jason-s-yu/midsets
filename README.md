@@ -41,4 +41,6 @@ Steps, front/back and fh/bh/fs/bs is for front-back
 
 ### Examples
 
-See [/data]
+See [mvt1-in](https://github.com/Jason-FTW/midsets/blob/master/data/mvt1-in).
+
+Output for the example is in the same folder. 
