@@ -1,30 +1,26 @@
-# Midset Calculator
+# Modified midsets calculator
 
-This is a command line utility for calculating midsets.
+This is a command line utility for calculating midsets. Based off of (midset)[https://github.com/spencer-p/midset] - formatting is the same.
 
 ## Building it
 
 ```
-git clone https://github.com/springworm/midset.git
+git clone https://github.com/Jason-FTW/midsets
 cd midset
 make
 ```
+Or you can clone with `git clone git@github.com:Jason-FTW/midsets.git`
 
-If you want to "install" it figure it out yourself.
-
-## How to use
+## Usage
 
 ### Input
 
-The executable file will be named midset and will accept a file to read your dots from. Alternatively, it will read standard input, allowing things like piping data to it.
-
 ```
-./midset mydots.txt
+./midset input.txt
 ```
 
-### Options
+### Building
 
-In addition, there are a couple of fancy options:
 ```
 ./midset [file]
 	Accepts a file to read, otherwise stdin
@@ -34,6 +30,11 @@ In addition, there are a couple of fancy options:
 	-d [n]: division of sets (2, 4, 8...)
 ```
 
-### Format for dots
+### Format
 
 `[side] [steps] [in/out] [yard] [steps] [front/back] [fh/bh/fs/bs]`
+Where side is the side of the field
+
+Steps, in/out and yard are for side to side
+
+Steps, front/back and fh/bh/fs/bs is for front-back
