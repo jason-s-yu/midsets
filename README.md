@@ -1,6 +1,6 @@
 # Modified midsets calculator
 
-This is a command line utility for calculating midsets. Based off of [midset](https://github.com/spencer-p/midset) - formatting is the same.
+This is a command line utility for calculating midsets. Based off of midset - formatting is the same.
 
 ## Building it
 
