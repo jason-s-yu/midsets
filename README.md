@@ -15,11 +15,12 @@ Or you can clone with `git clone git@github.com:Jason-FTW/midsets.git`
 
 ### Input
 
+Inside the project folder:
 ```
-./midset input.txt
+./midset [path-to-input].txt
 ```
 
-### Building
+### Commands
 
 ```
 ./midset [file]
@@ -45,7 +46,7 @@ See [mvnt1-in](./data/mvnt1-in).
 
 Output for the example is in the same folder. 
 
-### Upcoming/Todo
+## Upcoming/Todo
 
 - [ ] Patch formatting for copy-paste
 - [ ] web client
