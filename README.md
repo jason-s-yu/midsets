@@ -6,7 +6,7 @@ This is a command line utility for calculating midsets. All show dots are conver
 
 ```
 git clone https://github.com/Jason-FTW/midsets
-cd midset
+cd midsets
 make
 ```
 Or you can clone with `git clone git@github.com:Jason-FTW/midsets.git`
