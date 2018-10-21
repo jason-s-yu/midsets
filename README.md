@@ -44,3 +44,8 @@ Steps, front/back and fh/bh/fs/bs is for front-back
 See [mvnt1-in](./data/mvnt1-in).
 
 Output for the example is in the same folder. 
+
+### Upcoming/Todo
+
+- [ ] Patch formatting for copy-paste
+- [ ] web client
