@@ -1,6 +1,6 @@
 # Modified midsets calculator
 
-This is a command line utility for calculating midsets. Based off of midset - formatting is the same.
+This is a command line utility for calculating midsets. All show dots are converted from one file into a midset file in one go (as opposed to other online tools in which you have to input each one individually)
 
 ## Building it
 
