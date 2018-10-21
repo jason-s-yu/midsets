@@ -41,6 +41,6 @@ Steps, front/back and fh/bh/fs/bs is for front-back
 
 ### Examples
 
-See [mvt1-in](data/mvt1-in).
+See [mvt1-in](./data/mvt1-in).
 
 Output for the example is in the same folder. 
