@@ -50,3 +50,4 @@ Output for the example is in the same folder.
 
 - [ ] Patch formatting for copy-paste
 - [ ] web client
+- [ ] direct conversion from pdf/image
